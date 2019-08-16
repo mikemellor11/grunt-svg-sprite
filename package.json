@@ -28,7 +28,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "prettysize": "^1.1.0",
-    "svg-sprite": "^1.5.0"
+    "svg-sprite": "https://github.com/mikemellor11/svg-sprite.git#master"
   },
   "devDependencies": {
     "grunt": "^1.0.3",
